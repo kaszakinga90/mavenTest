@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dee2a2ba-5ed5-42f8-94e9-4cf9d8e94ace" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bom_module_dependencies/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bom_module_dependencies/src/main/java/com/devshub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/application_a/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/application_a/src/main/java/com/devshub/a/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/domain_a/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/domain_a/src/main/java/com/devshub/a/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/infrastructure_a/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/infrastructure_a/src/main/java/com/devshub/a/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_administration/src/main/java/com/devshub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/application/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/application/src/main/java/com/devshub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/domain/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/domain/src/main/java/com/devshub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/infrastructure/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/infrastructure/src/main/java/com/devshub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery_bom_module/src/main/java/com/devshub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devshub/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +30,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17"
+    "jdk.selected.JAVA_MODULE": "17",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681920338081</updated>
-      <workItem from="1681920340200" duration="764000" />
+      <workItem from="1681920340200" duration="1997000" />
     </task>
     <servers />
   </component>
